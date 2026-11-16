@@ -1,0 +1,5 @@
+PASSOS
+1. Suba TODOS os itens desta pasta para o repositório (index.html, manifest.json, sw.js e a pasta icons).
+2. No GitHub: Settings > Pages > Branch main, pasta / (root) > Save.
+3. Abra https://SEU_USUARIO.github.io/NOME_DO_REPOSITORIO/ no celular.
+4. Android (Chrome): menu ⋮ > Instalar app. iPhone (Safari): Compartilhar > Adicionar à Tela de Início.
